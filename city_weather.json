@@ -1,0 +1,113 @@
+{
+    "Almaty": {
+        "id": 1526384,
+        "name": "Almaty",
+        "coord": {
+            "lat": 43.25,
+            "lon": 76.95
+        },
+        "main": {
+            "temp": 299.1,
+            "feels_like": 299.1,
+            "temp_min": 299.1,
+            "temp_max": 299.1,
+            "pressure": 1009,
+            "humidity": 32
+        },
+        "dt": 1657116550,
+        "wind": {
+            "speed": 5,
+            "deg": 50
+        },
+        "sys": {
+            "country": "KZ"
+        },
+        "rain": null,
+        "snow": null,
+        "clouds": {
+            "all": 20
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ]
+    },
+    "London": {
+        "id": 2643743,
+        "name": "London",
+        "coord": {
+            "lat": 51.5085,
+            "lon": -0.1257
+        },
+        "main": {
+            "temp": 295.54,
+            "feels_like": 295.35,
+            "temp_min": 294.18,
+            "temp_max": 297.04,
+            "pressure": 1027,
+            "humidity": 58
+        },
+        "dt": 1657116555,
+        "wind": {
+            "speed": 5.14,
+            "deg": 280
+        },
+        "sys": {
+            "country": "GB"
+        },
+        "rain": null,
+        "snow": null,
+        "clouds": {
+            "all": 100
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ]
+    },
+    "Paris": {
+        "id": 2988507,
+        "name": "Paris",
+        "coord": {
+            "lat": 48.8534,
+            "lon": 2.3488
+        },
+        "main": {
+            "temp": 298.96,
+            "feels_like": 298.64,
+            "temp_min": 297.8,
+            "temp_max": 300.9,
+            "pressure": 1025,
+            "humidity": 40
+        },
+        "dt": 1657116554,
+        "wind": {
+            "speed": 5.14,
+            "deg": 310
+        },
+        "sys": {
+            "country": "FR"
+        },
+        "rain": null,
+        "snow": null,
+        "clouds": {
+            "all": 0
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ]
+    }
+}
